@@ -3,7 +3,8 @@
 ---
 ### 姓名：劉柏余
 ### 生日：72/08/08
-### 興趣：游泳、羽球、合氣道
+### 興趣：游泳、羽球、合氣道、寫程式、跑模型
+### 未來想玩的專案類型：Text Mining
 ### 現職：三商美邦人壽
 :::danger
 :::success
@@ -25,7 +26,8 @@
             + JAVA Spring MVC
             + JAVA Spring Boot(JPA)
     + 例行性維護 
-        + informix-4gl維護
+        + java 程式維護及開發(視窗程式)
+        + informix-4gl維護
             + 電銷系統
             + 扣佣系統
     + Business Intelligence維護與開發
@@ -40,7 +42,7 @@
     + 臨時性資料撈取
     + 定期稽核及專案稽核
     + 作業手冊撰寫
-    + 電話行銷名單分析
+    + 行銷分析
 :::
 :::danger
 :::info
