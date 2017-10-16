@@ -1,7 +1,8 @@
 # resume
-基本資料
+## 基本資料
 ---
 ### 姓名：劉柏余
+![abc](https://cdn.hk01.com/media/images/718942/xlarge/6bf1c164e51088a4a0f8e301704f6087.jpg)
 ### 生日：72/08/08
 ### 興趣：游泳、羽球、合氣道、寫程式、跑模型
 ### 未來想玩的專案類型：Text Mining
@@ -26,10 +27,10 @@
             + JAVA Spring MVC
             + JAVA Spring Boot(JPA)
     + 例行性維護 
-        + java 程式維護及開發(視窗程式)
-        + informix-4gl維護
-            + 電銷系統
-            + 扣佣系統
+        * java 程式維護及開發(視窗程式)
+        * informix-4gl維護
+           - 電銷系統
+           - 扣佣系統
     + Business Intelligence維護與開發
         + SAP-Business Objective
         + 聯銓-smart eVision
